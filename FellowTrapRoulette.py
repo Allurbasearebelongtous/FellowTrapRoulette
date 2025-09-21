@@ -7,7 +7,7 @@ import QtBind
 import struct
 
 
-pName = 'TryTrappingFellowPet'
+pName = 'FellowTrapRoulette'
 logPrefix = pName + '-plugin:'
 pVersion = '1.0.0'
 # ______________________________ Initializing ______________________________ #
